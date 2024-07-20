@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "개발 환경.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "개발 환경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "개발 환경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "개발 환경.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "94170e5a22b98e7c",
   "lastOpenFiles": [
-    "개발 환경.md",
     "README.md",
+    "개발 환경.md",
     "회의록 목록.md",
     "회의록.md",
     "[.md",

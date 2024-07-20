@@ -1,4 +1,5 @@
 # planItNotes
+Use [Obsidian](https://obsidian.md/)
 
 ## Project Info
 원형 시간표 시스템

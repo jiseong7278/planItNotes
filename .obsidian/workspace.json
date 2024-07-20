@@ -11,8 +11,24 @@
             "id": "67a6214a95dc4898",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "push test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f94ff69cef25950f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "push test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "push test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "push test.md"
+              }
             }
           }
         ]
@@ -138,14 +158,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4d0f82f72535e0e4",
+  "active": "67a6214a95dc4898",
   "lastOpenFiles": [
-    "2024-07-20.md",
-    "무제 파일.canvas",
-    "create a link.md",
-    "Welcome.md",
+    "README.md",
     "무제 파일.md",
+    "push test.md",
+    "Welcome.md",
+    "create a link.md",
     "무제 폴더/무제 파일.canvas",
-    "무제 폴더"
+    "무제 폴더",
+    "2024-07-20.md",
+    "무제 파일.canvas"
   ]
 }
